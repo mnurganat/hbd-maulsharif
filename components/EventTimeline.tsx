@@ -55,15 +55,14 @@ export default function EventTimeline() {
                 {/* Role */}
                 <p className="text-[#bf00ff] text-sm mb-4">{venue.role}</p>
 
-                {/* Address + maps */}
-                <p className="text-[#9d7cc8] text-sm mb-3">{venue.address}</p>
+                {/* Maps link with address as label */}
                 <a
                   href={venue.mapsUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-1 text-[#00e5ff] text-xs border border-[#00e5ff40] rounded-full px-4 py-1.5 hover:border-[#00e5ff] hover:glow-cyan transition-colors"
                 >
-                  📍 Google Maps
+                  📍 {venue.address}
                 </a>
               </div>
             </div>

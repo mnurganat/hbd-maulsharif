@@ -161,7 +161,7 @@ export default function Wishlist() {
     <section id="wishlist" className="relative z-10 py-20 px-4">
       <div className="max-w-2xl mx-auto">
         <div className="text-center mb-12">
-          <p className="text-[#9d7cc8] text-xs tracking-[0.3em] uppercase mb-3">идеи подарков</p>
+          <p className="text-[#9d7cc8] text-xs tracking-[0.3em] uppercase mb-3">если не знаешь что подарить</p>
           <h2 className="font-display font-black text-3xl md:text-4xl glow-gold text-[#ffd700]">
             Вишлист 🎁
           </h2>

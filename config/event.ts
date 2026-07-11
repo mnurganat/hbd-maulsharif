@@ -121,24 +121,6 @@ export const WISHLIST_ITEMS = [
     description: "Вакуумная кружка с керамическим покрытием внутри: держит тепло до 12ч, холод до 24ч. Три сменные крышки в комплекте.",
     link: "https://kaspi.kz/shop/p/termokruzhka-fellow-carter-0-475-l-sinii-138267428/",
   },
-  {
-    id: "w16",
-    title: "Upright GO 2 Premium — корректор осанки",
-    description: "Небольшой гаджет на спину, который вибрирует при сутулости. Синхронизируется с приложением и отслеживает осанку в течение дня.",
-    link: "https://www.amazon.com/Upright-GO-Premium-Posture-Trainer/dp/B07SRW2D38",
-  },
-  {
-    id: "w17",
-    title: "Orbitkey Slim Laptop Sleeve",
-    description: "Тонкий чехол для 14\" или 16\" MacBook с двусторонней молнией и ручкой для чемодана на задней стенке.",
-    link: "https://www.orbitkey.com/products/slim-laptop-sleeve",
-  },
-  {
-    id: "w18",
-    title: "Apple AirTag",
-    description: "Трекер Apple для ключей, сумки или чего угодно — найдёт через сеть Find My с точным наведением на iPhone.",
-    link: "https://kaspi.kz/shop/search/?text=airtag",
-  },
 ];
 
 // Photos for gallery — Нурик кладёт реальные фото в /public/photos/
